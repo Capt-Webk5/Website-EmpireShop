@@ -4,7 +4,7 @@
                     <div class="col-sm-12 hidden-desktop hidden-tablet text-center mobile-info">
                         <h2>Coppy Belong Văn Phúc</h2>
                         <p><span class="icon-map-pin"></span>236 Ngũ Hành Sơn, Thành Phố Đà Nẵng</p>
-                        <p>TEL: <a href="tel:0985034632" title="Gọi 0985034632" rel="nofollow noopener">0985034632</a> | <a href="tel:0346593277" title="Gọi 0346593277" rel="nofollow noopener">0346593277</a> | <a href="tel: 0367293355" title="Gọi 0367293355" rel="nofollow noopener">0367293355</a></p>
+                        <p>TEL: <a href="tel:" title="Gọi " rel="nofollow noopener">0912371723</a> | <a href="tel:0346593277" title="Gọi 0" rel="nofollow noopener">0789123811</a> | <a href="tel: 0" title="Gọi 0" rel="nofollow noopener">0123183911</a></p>
                         <div class="list-social">
                             <ul class="social">
                                 <li><a href="" target="_blank" title="Facebook"><span class="icon-facebook2"></span></a>
@@ -55,7 +55,7 @@
                             <div class="footer-hotline">
                                 <p>Tư vấn mua hàng:</p>
                                 <p>
-                                    <a href="tel:0985034632" title="Hotline">0985034632</a>
+                                    <a href="tel:0418238123" title="Hotline">012377741</a>
                                 </p>
                             </div>
                             <div class="footer-cre">
@@ -126,7 +126,7 @@
                     <div class="col text-center">
                         <p>
                             © Coppy Belong Văn Phúc.<br>
-                            <span class="icon-map-pin"></span>236 Ngũ Hành Sơn, Thành Phố Đà Nẵng - Điện thoại: <a href="tel:0985034632" title="Gọi 0985034632" rel="nofollow noopener">0985034632</a> | <a href="tel:0346593277" title="Gọi 0346593277" rel="nofollow noopener">0346593277</a> | <a href="tel:0367293355" title="Gọi 0367293355" rel="nofollow noopener">0367293355</a> | Email: <a href="mailto:Phucvv.23ns@vku.udn.vn" title="Email" rel="nofollow noopener">Phucvv.23ns@vku.udn.vn</a>
+                            <span class="icon-map-pin"></span>236 Ngũ Hành Sơn, Thành Phố Đà Nẵng - Điện thoại: <a href="tel:085881721" title="Gọi 08981823" rel="nofollow noopener">08528384324</a> | <a href="tel:0" title="Gọi 0" rel="nofollow noopener">0993182311</a> | <a href="tel:095817321" title="Gọi 0959131311" rel="nofollow noopener">05818321311</a> | Email: <a href="mailto:lythuong19991@gmail.com" title="Email" rel="nofollow noopener">Lythuong1991@gmail.com</a>
                         </p>
                         <div class="offcanvas-header">
                     </div>
